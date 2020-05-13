@@ -1,3 +1,6 @@
+/**
+ * This class contains data of all employees their projects and dates.
+ */
 public class Data {
 
     private Integer employeeID;
